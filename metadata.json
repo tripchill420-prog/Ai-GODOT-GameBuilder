@@ -1,0 +1,5 @@
+{
+  "name": "Wasteland RPG Architect",
+  "description": "A survival RPG engine and Godot 4 project generator inspired by Last Day on Earth. Simulate survival mechanics and generate GDScript code using Gemini AI.",
+  "requestFramePermissions": []
+}
